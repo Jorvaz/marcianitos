@@ -1,4 +1,4 @@
 # marcianitos
 A basic marcianitos game
 
-You will install pygame: https://bitbucket.org/pygame/pygame/downloads/
+You will need install pygame: https://bitbucket.org/pygame/pygame/downloads/
